@@ -1,0 +1,8 @@
+export const SET_USER = "SET_USER";
+export const LOADING_START = "LOADING_START";
+export const LOADING_STOP = "LOADING_STOP";
+export const CLEAR_USER = "CLEAR_USER";
+export const SET_CURRENT_CHANNEL = "SET_CURRENT_CHANNEL";
+export const SET_PRIVATE_CHANNEL = "SET_PRIVATE_CHANNEL";
+export const SET_USER_POSTS = "SET_USER_POSTS";
+export const SET_COLORS = "SET_COLORS";
